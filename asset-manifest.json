@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/new-react/static/css/main.073c9b0a.css",
-    "main.js": "/new-react/static/js/main.c0eda11e.js",
-    "static/js/787.5373ea6b.chunk.js": "/new-react/static/js/787.5373ea6b.chunk.js",
-    "static/media/logo.svg": "/new-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/new-react/static/css/main.716c036a.css",
+    "main.js": "/new-react/static/js/main.834bbe2e.js",
+    "static/media/horiseon_scsh.png": "/new-react/static/media/horiseon_scsh.e142c69d9b6da6177060.png",
+    "static/media/inspirite_scsh.png": "/new-react/static/media/inspirite_scsh.ec31675baf6c06b1ad43.png",
+    "static/media/quiz_scsh.png": "/new-react/static/media/quiz_scsh.6701d66279597ce91910.png",
+    "static/media/weather_scsh.png": "/new-react/static/media/weather_scsh.8d56ecc5d9322da8e253.png",
+    "static/media/teamprofile_scsh.png": "/new-react/static/media/teamprofile_scsh.c138b5a11e9b5ab1fc5f.png",
+    "static/media/weekscheduler_scsh.png": "/new-react/static/media/weekscheduler_scsh.9901e2186b768da3ef6c.png",
     "index.html": "/new-react/index.html",
-    "main.073c9b0a.css.map": "/new-react/static/css/main.073c9b0a.css.map",
-    "main.c0eda11e.js.map": "/new-react/static/js/main.c0eda11e.js.map",
-    "787.5373ea6b.chunk.js.map": "/new-react/static/js/787.5373ea6b.chunk.js.map"
+    "main.716c036a.css.map": "/new-react/static/css/main.716c036a.css.map",
+    "main.834bbe2e.js.map": "/new-react/static/js/main.834bbe2e.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c0eda11e.js"
+    "static/css/main.716c036a.css",
+    "static/js/main.834bbe2e.js"
   ]
 }
